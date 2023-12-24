@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+}
+
+.header {
+    background-color:rgb(204, 198, 148);
+    font-weight: bolder;
+    margin-top: -3.5%;
+    text-align: center;
+    font-size:33px;
+    align-items: center;
+    height: 90px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+#text_box {
+    margin-top: 4%;
+    margin-left: 17%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea {
+    font-size: 17px;
+}
